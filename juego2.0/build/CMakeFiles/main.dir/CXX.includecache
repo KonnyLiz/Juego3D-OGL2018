@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mario/algoritmo/juego2.0/img.cpp
+
+/home/mario/algoritmo/juego2.0/main.cpp
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+stdio.h
+-
+vector
+-
+string
+-
+string.h
+-
+SDL2/SDL.h
+-
+SDL/SDL_mixer.h
+/home/mario/algoritmo/juego2.0/SDL/SDL_mixer.h
+SOIL/SOIL.h
+-
+img.cpp
+/home/mario/algoritmo/juego2.0/img.cpp
+
